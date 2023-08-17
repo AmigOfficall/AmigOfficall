@@ -1,0 +1,9 @@
+- 👋 Merhaba, ben @AmigOfficall
+- 👀 İlgileniyorum ...
+- 🌱 Sizin için Ne yapmalıyım ...
+- 📫Bana nasıl ulaşabilirsiniz... 📫Bana nasıl ulaşabilirsiniz...
+
+<!---
+AmigOfficall/AmigOfficall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
